@@ -15,14 +15,7 @@ mas meus objetivos é ser pogramador front-end.
 <a href = "duarte7612@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
 
-## Minnhas melhores ferramentas🛠️🛠️🛠️🛠️🛠️
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="40" height="40"/> <img
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" heigth="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" width="40" height="40"/>
-
-
-## ----------------------------------------------------🐌
-![Snake animation](https://github.com/guilhermeduarted/guilhermeduarted/blob/output/github-contribution-grid-snake.svg) </div>  </div>  <img src="https://i.pinimg.com/originals/d6/96/17/d696177e218c58adfc827af063517b10.gif"/>
 
 
 
