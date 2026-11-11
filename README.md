@@ -1,7 +1,3 @@
-### 👨‍💻👨‍💻Ola meu nome é Guilherme e tenho 23 anos, sou estunte de ADS-(Analise Desemvolvimento de Sistemas), foço esse curso na faculdade fasipe CPA em  Cuiabá.
-adoro passar passar meu tempo em Games🎮 e serie📺.
-mas meus objetivos é ser pogramador front-end.
-
 
 <div>
 <a href="https://github.com/guilhermeduarted">
